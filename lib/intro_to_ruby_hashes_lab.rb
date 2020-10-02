@@ -1,9 +1,9 @@
 def new_hash
-  new_hash = {}
+  hash = {}
 end
 
 def my_hash
-my_hash = {animal : "dog"}
+{animal : "dog"}
 end
 
 def pioneer
